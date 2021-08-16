@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**alandavidsoto/alandavidsoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://github.com/alandavidsoto"><img width="400" src="https://github-readme-stats.vercel.app/api?username=alandavidsoto&show_icons=true&theme=algolia">
+  <a href="https://github.com/alandavidsoto"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alandavidsoto&hide=html,scss,css&langs_count=10&layout=compact&theme=algolia">
+</p>
+    
+## My repos
+    
+<p align="left">
+  
+   <a href="https://github.com/alandavidsoto/Portafolio"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alandavidsoto&repo=Portafolio&langs_count=5&theme=algolia">
+  <a href="https://github.com/alandavidsoto/calculator"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alandavidsoto&card_height=300&&repo=calculator&langs_count=5&layout=compact&theme=algolia">
+  <a href="https://github.com/alandavidsoto/openweather-API"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alandavidsoto&repo=openweather-API&layout=compact&theme=algolia">
+  <a href="https://github.com/alandavidsoto/PAGINAWEB"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alandavidsoto&repo=PAGINAWEB&hide=html,scss,css&langs_count=10&layout=compact&theme=algolia">
+</p>  
