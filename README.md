@@ -1,5 +1,4 @@
 <h1>👦 Hola, Me llamo Alan Soto</h1>
-<br>
 <h2>soy un desarrollador Front-end con conocimientos sobre distintas tecnologias para  la creacion de sitios webs </h2>
 
 <p align="left">
