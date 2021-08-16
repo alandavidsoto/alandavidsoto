@@ -1,7 +1,7 @@
 👦 Hola, Me llamo Alan Soto y soy un desarrollador Front-end con conocimientos sobre distintas tecnologias para  la creacion de sitios webs 
 
 <p align="left">
-  <a href="https://github.com/alandavidsoto"><img width="400" src="https://github-readme-stats.vercel.app/api?username=alandavidsoto&show_icons=true&theme=algolia">
+  <a href="https://github.com/alandavidsoto"><img width="400" src="https://github-readme-stats.vercel.app/api?username=alandavidsoto&show_icons=true&theme=dracula">
   <a href="https://github.com/alandavidsoto"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alandavidsoto&hide=html,scss,css&langs_count=10&layout=compact&theme=algolia">
 </p>
     
